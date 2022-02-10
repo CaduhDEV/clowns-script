@@ -2,7 +2,7 @@
 <br>
   <img src="https://cdn.discordapp.com/attachments/929490202391621652/941475805001818162/clownlogo.png" alt="ClownsScript" width="300">
 <br>
-Killer Clowns - Clowns Script
+Serialkillers Clowns - Clowns Script
 </h1>
 
 <p align="center">Killer clowns are out there! now in your FiveM Server.</p>
