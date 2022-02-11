@@ -17,7 +17,7 @@ This application was made to be used together with FiveM, check out the dependen
 ## Getting started
 
 - Download the project and put in the directory of the scripts, usually in "your-server/resources/here".
-- Open your server console and type "refresh".
+- Open your server console and use the command "refresh".
 - Use the command "ensure clowns-script" to start using.
 - You can also start along with the server, using "ensure clowns-script" in your server cfg.
 
