@@ -1,3 +1,1 @@
-local cfg = {}
-
-return cfg
+cfg = {}
